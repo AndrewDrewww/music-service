@@ -1,0 +1,7 @@
+# Результаты сборки Maven
+target/
+
+# Служебные файлы IDE (IntelliJ IDEA)
+.idea/
+*.iml
+out/
